@@ -1,6 +1,6 @@
 <h1 align="center">Olá! 🌸, me chamo Panmella!</h1>
 <h3 align="center">Uma desenvolvedora aprendiz de Front-End ✨</h3>
-<img align="right" alt="Coding" width="350" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
+<img align="right" alt="Coding" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pans28&label=Profile%20views&color=0e75b6&style=flat" alt="pans28" /></p>
 
