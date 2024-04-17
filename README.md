@@ -8,8 +8,6 @@
 
 - 🌱 Estou cursando **Ciência da Computação na faculdade Descomplica**
 
-- ⚡ Fun fact **eu não sei o que tô fazendo nesse curso 🌝**
-
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a href="https://instagram.com/panmellas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panmellas" height="30" width="40" /></a>
